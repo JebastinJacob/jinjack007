@@ -2,5 +2,5 @@
 - 👀 I’m interested in **Mobile App Dev**,**Web Dev**
 - 🔭 I’m currently Working On **React-Native**,**React**
 - 🌱 I’m currently learning **Flutter**,**Angular**,**Selenium**,
-- 📫 How to reach me www.linkedin.com/in/jebasjacob
+- 📫 How to reach me [Linkedin - Profile](www.linkedin.com/in/jebasjacob)
 - 😄 Current Role: **SDE 1**
