@@ -3,4 +3,4 @@
 - 🔭 I’m currently Working On **React-Native**,**React**
 - 🌱 I’m currently learning **Flutter**,**Angular**,**Selenium**,
 - 📫 How to reach me [Linkedin - Profile](www.linkedin.com/in/jebasjacob)
-- 😄 Current Role: **SDE 1**
+- 😄 Current Role: **SDE 2**
